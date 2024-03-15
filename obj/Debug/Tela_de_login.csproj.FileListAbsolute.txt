@@ -1,0 +1,10 @@
+C:\Users\grego\OneDrive\Área de Trabalho\MOSCA\Tela_de_login\bin\Debug\Tela_de_login.exe.config
+C:\Users\grego\OneDrive\Área de Trabalho\MOSCA\Tela_de_login\bin\Debug\Tela_de_login.exe
+C:\Users\grego\OneDrive\Área de Trabalho\MOSCA\Tela_de_login\bin\Debug\Tela_de_login.pdb
+C:\Users\grego\OneDrive\Área de Trabalho\MOSCA\Tela_de_login\obj\Debug\Tela_de_login.csproj.AssemblyReference.cache
+C:\Users\grego\OneDrive\Área de Trabalho\MOSCA\Tela_de_login\obj\Debug\Tela_de_login.Form1.resources
+C:\Users\grego\OneDrive\Área de Trabalho\MOSCA\Tela_de_login\obj\Debug\Tela_de_login.Properties.Resources.resources
+C:\Users\grego\OneDrive\Área de Trabalho\MOSCA\Tela_de_login\obj\Debug\Tela_de_login.csproj.GenerateResource.cache
+C:\Users\grego\OneDrive\Área de Trabalho\MOSCA\Tela_de_login\obj\Debug\Tela_de_login.csproj.CoreCompileInputs.cache
+C:\Users\grego\OneDrive\Área de Trabalho\MOSCA\Tela_de_login\obj\Debug\Tela_de_login.exe
+C:\Users\grego\OneDrive\Área de Trabalho\MOSCA\Tela_de_login\obj\Debug\Tela_de_login.pdb
